@@ -1,3 +1,3 @@
-| DATE       | COURSE                                                                                                                |
-| :--------: | :-------------------------------------------------------------------------------------------------------------------- |
-| 07.07.2022 | [Deep Dive Into Modern Web Development (University of Helsinki)](https://github.com/glebsuprun/Training/blob/main/#1) |
+| DATE       | COURSE                                                                                                                  |
+| :--------: | :---------------------------------------------------------------------------------------------------------------------- |
+| 07.07.2022 | [Deep Dive Into Modern Web Development (University of Helsinki)](https://github.com/glebsuprun/Training/tree/main/%231) |
