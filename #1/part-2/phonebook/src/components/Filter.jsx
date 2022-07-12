@@ -1,7 +1,10 @@
-import React from 'react';
+import React from "react";
 
-export const Filter = ({handleSearchPersonChange}) => {
+export const Filter = ({ value, onChange }) => {
   return (
-    <div>filter show with <input onChange={handleSearchPersonChange}/></div>
+    <p>
+      filter shown with
+      <input value={value} onChange={onChange} />
+    </p>
   );
 };
