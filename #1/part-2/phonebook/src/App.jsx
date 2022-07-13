@@ -1,3 +1,5 @@
+import './App.css';
+
 import React, { useState, useEffect } from 'react';
 
 import PhoneService from "./services/phonebook";
