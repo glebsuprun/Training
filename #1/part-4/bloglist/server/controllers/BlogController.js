@@ -1,4 +1,4 @@
-import BlogService from "../services/BlogService.js"
+import BlogService from '../services/BlogService.js'
 
 class BlogController {
   async create(request, response) {

@@ -3,12 +3,16 @@ import express from 'express'
 import mongoose from 'mongoose'
 
 import blogRouter from './routes/blog.routes.js'
+import userRouter from './routes/user.routes.js'
+import loginRouter from './routes/login.routes.js'
 
 const app = express()
 
 app.use(express.json())
 
-app.use('/api', blogRouter)
+app.use('/api/blogs', blogRouter)
+app.use('/users', userRouter)
+app.use('/api/login', loginRouter)
 
 async function start() {
   try {
