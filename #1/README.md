@@ -2,7 +2,7 @@
 
 ## Deep Dive Into Modern Web Development
 
-![certificate](https://github.com/glebsuprun/Training/tree/main/%231/certificate.png)
+![certificate](https://github.com/glebsuprun/Training/blob/main/%231/certificate.png)
 
 ### Full stack open 2020 & 2022
 
